@@ -17,3 +17,12 @@ Aprendizado 1ª aula de Desenvolvimento Web, Data: 08/05/2024
 12- section <marcar as seções de conteúdo de uma página>
 13- footer <rodapé>
 
+*Funções CSS
+1- width <altura>
+2- height <largura>
+3- background-color <Configura o plano de fundo em uma cor>
+4- Text-aling <alinha o texto para a posição requerida>
+5- Border-radios <forma a borda de acordo com os valores colocado>
+6- Float < posicionar algo na tela, seja um elemento em bloco ou em linha>
+7- list-style-type <Muda o formato das letras>
+8- Margin <Forma a margem>
